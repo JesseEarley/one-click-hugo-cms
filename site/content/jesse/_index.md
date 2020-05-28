@@ -1,5 +1,6 @@
 ---
-title: "Jesse"
+title: "Jesse
+"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
